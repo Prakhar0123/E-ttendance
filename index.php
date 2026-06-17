@@ -14,7 +14,7 @@
     <header class="bg-danger text-white text-center mb-3 py-3">
         <div class="row">
             <div class="col-12">
-            <h1>KRYPTON ATTENDANCE</h1>
+            <h1>E-TTENDANCE</h1>
             <h3>EMPLOYEES ATTENDANCE FOR THE MONTH: <u><?php echo strtoupper(date("F")); ?></u></h3>
             </div>
         </div>
